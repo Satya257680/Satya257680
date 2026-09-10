@@ -259,19 +259,7 @@ Application focused on calculation workflows and practical business functionalit
 
 <div align="center">
 
-# 📈 CONTRIBUTIONS
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2196F3,50:7C3AED,100:EC4899" width="75%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satya257680&bg_color=0B1220&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Satyajit%27s%20Contribution%20Activity" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
 
 # 🧠 DEVELOPMENT MINDSET
 
