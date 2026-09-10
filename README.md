@@ -1,79 +1,255 @@
 <div align="center">
 
-# 👋 SATYAJIT NAYAK
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:141e30,100:243b55&text=SATYAJIT%20NAYAK&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20MERN%20%7C%20SQL&descAlignY=62&descSize=18" width="100%"/>
 
-### Full-Stack Developer • MERN • SQL • Software Builder
+<br>
 
-*Building practical, scalable and user-focused web applications from India 🇮🇳*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+%7C+SQL+Developer;Building+Real-World+Business+Applications;Turning+Ideas+Into+Production+Software" />
+
+<br><br>
+
+<a href="https://github.com/Satya257680">
+<img src="https://img.shields.io/badge/GITHUB-Satya257680-161B22?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 Currently Building
+<div align="center">
+
+## 👨‍💻 ABOUT ME
+
+</div>
+
+<table>
+<tr>
+<td width="60%">
+
+### Hi, I'm Satyajit 👋
+
+I'm a **Full-Stack Developer** focused on building practical and production-oriented web applications.
+
+I enjoy working across the complete development lifecycle — from designing interfaces and APIs to databases, authentication, business logic and deployment.
+
+### What I Focus On
+
+- 🚀 Full-Stack Web Development
+- 🏢 Business & Management Applications
+- 🔐 Authentication & Authorization
+- 🗄️ Database Architecture
+- 🔌 REST APIs
+- ☁️ Deployment & Production Setup
+- 🎨 Clean and responsive UI
+
+</td>
+
+<td width="40%">
 
 <div align="center">
 
-### 🏢 Mi Arcus
+### ⚡ CURRENTLY BUILDING
+
+<br>
+
+# 🏢 Mi Arcus
 
 **Internal Management Platform**
 
-A full-stack management system designed to simplify business operations, users, billing, collections and internal workflows.
+<br>
 
-[![Mi Arcus](https://img.shields.io/badge/🔗_View_Mi_Arcus-181717?style=for-the-badge&logo=github)](https://github.com/Satya257680/miarcus)
+Business management software designed around real-world operational workflows.
+
+<br>
+
+<a href="https://github.com/Satya257680/miarcus">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
----
+</td>
+</tr>
+</table>
 
-# 🛠️ TECH STACK
+---
 
 <div align="center">
 
-### Frontend
+# 🛠️ TECHNOLOGY STACK
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<br>
 
-### Backend
+### FRONTEND
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript" />
 
-### Database
+<br><br>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+### BACKEND
 
-### Tools & DevOps
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<br><br>
+
+### DATABASE
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<br><br>
+
+### TOOLS & DEVOPS
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" />
 
 </div>
 
 ---
 
-# 💻 WHAT I BUILD
+<div align="center">
 
-```text
-Full-Stack Web Applications
-        ↓
-Frontend Interfaces
-        ↓
-REST APIs & Backend Systems
-        ↓
-Database Architecture
-        ↓
-Authentication & Authorization
-        ↓
-Business Management Systems
-        ↓
-Deployment & Production Setup
+# 🚀 FEATURED PROJECTS
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Mi Arcus
+
+Internal management platform built for real-world business operations.
+
+**Includes systems for:**
+
+- User management
+- Billing
+- Daily collections
+- Business workflows
+- Authentication
+- Administrative controls
+
+<a href="https://github.com/Satya257680/miarcus">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-161B22?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🌐 Vistarax
+
+A modern full-stack web application built with a focus on clean UI, backend integration and practical functionality.
+
+<a href="https://github.com/Satya257680/Vistarax">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-161B22?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Attendance System
+
+Full-stack attendance management application designed for organizational workflows.
+
+<a href="https://github.com/Satya257680/ATTENDANCE-SYSTEM">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-161B22?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🧮 Calculation Platform
+
+Application focused on calculation workflows and practical business functionality.
+
+<a href="https://github.com/Satya257680/CalculationPlatform">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-161B22?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 📊 GITHUB ANALYTICS
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Satya257680&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya257680&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Satya257680&theme=github-dark-blue&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 CONTRIBUTION ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satya257680&bg_color=0d1117&color=58a6ff&line=238636&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 💡 DEVELOPMENT MINDSET
+
+<table>
+<tr>
+<td align="center">⚡<br><b>BUILD</b><br><sub>Real-world solutions</sub></td>
+<td align="center">🔐<br><b>SECURE</b><br><sub>Reliable applications</sub></td>
+<td align="center">📈<br><b>IMPROVE</b><br><sub>Continuous learning</sub></td>
+<td align="center">🚀<br><b>SHIP</b><br><sub>Production-ready software</sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🤝 LET'S CONNECT
+
+<br>
+
+<a href="https://github.com/Satya257680">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Satya257680&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+### ⭐ Thanks for visiting my profile
+
+<sub>Building • Learning • Improving • Shipping</sub>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:243b55,100:141e30&section=footer" width="100%"/>
