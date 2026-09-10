@@ -1,83 +1,29 @@
 <div align="center">
 
-<!-- ========================================================= -->
-<!-- HERO DASHBOARD                                            -->
-<!-- ========================================================= -->
-
-<a href="https://github.com/Satya257680">
-
-<img
-src="./assets/profile-dashboard.png"
-width="100%"
-alt="Satyajit Nayak - Full-Stack Developer"
-/>
-
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=SATYAJIT%20NAYAK&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20MERN%20%7C%20SQL&descAlignY=62&descSize=19&animation=fadeIn&color=0:071A3D,35:123B7A,70:4B1FA6,100:7C3AED" width="100%"/>
 
 <br>
 
-<!-- ========================================================= -->
-<!-- PRIMARY ACTIONS                                           -->
-<!-- ========================================================= -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;MERN+%7C+SQL+Developer;Software+Builder;Building+Real-World+Business+Applications;Turning+Ideas+Into+Production+Software" />
 
-<a href="./assets/Satyajit-Nayak-Resume.pdf">
-<img
-src="https://img.shields.io/badge/⬇%20DOWNLOAD%20RESUME-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white"
-alt="Download Resume"
-/>
-</a>
-
-&nbsp;&nbsp;
+<br><br>
 
 <a href="https://github.com/Satya257680">
-<img
-src="https://img.shields.io/badge/GITHUB-SATYA257680-111827?style=for-the-badge&logo=github&logoColor=white"
-alt="GitHub"
-/>
+<img src="https://img.shields.io/badge/GITHUB-SATYA257680-0B1220?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
 &nbsp;&nbsp;
 
-<a href="mailto:satyajitnayak179@gmail.com">
-<img
-src="https://img.shields.io/badge/EMAIL-SATYAJITNAYAK179%40GMAIL.COM-2563EB?style=for-the-badge&logo=gmail&logoColor=white"
-alt="Personal Email"
-/>
+<a href="mailto:nayaksatyajit372@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-4B1FA6?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
 </a>
 
 <br><br>
 
-<a href="tel:7327096390">
-<img
-src="https://img.shields.io/badge/PHONE-7327096390-111827?style=for-the-badge&logo=phone&logoColor=white"
-alt="Phone"
-/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:developer@miarcus.com">
-<img
-src="https://img.shields.io/badge/COMPANY%20EMAIL-DEVELOPER%40MIARCUS.COM-4B1FA6?style=for-the-badge&logo=gmail&logoColor=white"
-alt="Company Email"
-/>
-</a>
-
-<br><br>
-
-📍 **Bholapur, Ludhiana, Punjab**
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-💻 **Full-Stack Developer**
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-⚡ **MERN**
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-🗄️ **SQL**
+<img src="https://img.shields.io/badge/BUILD-0B1220?style=flat-square&logo=code&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/DESIGN-0B1220?style=flat-square&logo=figma&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/DEVELOP-0B1220?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/DEPLOY-0B1220?style=flat-square&logo=docker&logoColor=2496ED"/>
 
 </div>
 
@@ -85,14 +31,16 @@ alt="Company Email"
 
 <div align="center">
 
-# 👨‍💻 ABOUT ME
+## 👨‍💻 ABOUT ME
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2196F3,50:7C3AED,100:EC4899" width="75%"/>
 
 </div>
 
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ### 👋 Hi, I'm Satyajit
 
@@ -100,37 +48,27 @@ I'm a **Full-Stack Developer** focused on building practical, scalable and produ
 
 I enjoy working across the complete development lifecycle — from designing interfaces and APIs to databases, authentication, business logic and deployment.
 
+<br>
+
 ### ⚡ What I Focus On
 
-| | Area |
+| | Focus |
 |---|---|
 | 🚀 | Full-Stack Web Development |
 | 🏢 | Business & Management Applications |
 | 🔐 | Authentication & Authorization |
 | 🗄️ | Database Architecture |
 | 🔌 | REST APIs |
-| ⚙️ | Business Logic |
 | ☁️ | Deployment & Production Setup |
 | 🎨 | Clean & Responsive UI |
-| 🧩 | Real-World Business Workflows |
-
-### 📍 Contact
-
-**Location:** Bholapur, Ludhiana, Punjab
-
-**Phone:** [7327096390](tel:7327096390)
-
-**Personal Email:** [satyajitnayak179@gmail.com](mailto:satyajitnayak179@gmail.com)
-
-**Company Email:** [developer@miarcus.com](mailto:developer@miarcus.com)
 
 </td>
 
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
 <div align="center">
 
-## 🚀 CURRENTLY BUILDING
+### 🚀 CURRENTLY BUILDING
 
 <br>
 
@@ -138,28 +76,19 @@ I enjoy working across the complete development lifecycle — from designing int
 
 ### Internal Management Platform
 
+<br>
+
 Business management software designed around real-world operational workflows.
 
 <br>
 
-`Users`
+**Users • Billing • Collections • Management**
 
-`Billing`
-
-`Daily Collections`
-
-`Management`
-
-`Authentication`
-
-<br><br>
+<br>
 
 <a href="https://github.com/Satya257680/miarcus">
 
-<img
-src="https://img.shields.io/badge/VIEW%20MI%20ARCUS-238636?style=for-the-badge&logo=github&logoColor=white"
-alt="View Mi Arcus"
-/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -176,41 +105,31 @@ alt="View Mi Arcus"
 
 # 🛠️ TECHNOLOGY STACK
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2196F3,50:7C3AED,100:EC4899" width="75%"/>
+
+<br><br>
 
 ### FRONTEND
 
-<img
-src="https://skillicons.dev/icons?i=html,css,js,react,typescript"
-alt="Frontend Technologies"
-/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript&theme=dark" />
 
 <br><br>
 
 ### BACKEND
 
-<img
-src="https://skillicons.dev/icons?i=nodejs,express"
-alt="Backend Technologies"
-/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
 <br><br>
 
 ### DATABASE
 
-<img
-src="https://skillicons.dev/icons?i=mongodb,mysql"
-alt="Database Technologies"
-/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
 <br><br>
 
 ### TOOLS & DEVOPS
 
-<img
-src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode"
-alt="Tools and DevOps"
-/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode&theme=dark" />
 
 </div>
 
@@ -220,65 +139,50 @@ alt="Tools and DevOps"
 
 # 🚀 FEATURED PROJECTS
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2196F3,50:7C3AED,100:EC4899" width="75%"/>
+
 </div>
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-## 🏢 Mi Arcus
+### 🏢 Mi Arcus
 
-### Internal Management Platform
+**Internal Management Platform**
 
-A full-stack internal management platform built around real-world business workflows.
+Full-stack business management application designed around real-world operational workflows.
 
-### Core Systems
+**Focus**
 
-- 👥 User Management
-- 💳 Billing
-- 💰 Daily Collections
-- 🔐 Authentication
-- 🛡️ Administrative Controls
-- ⚙️ Business Workflows
-- 📊 Management Operations
+`Users` `Billing` `Collections` `Management`
 
 <br>
 
 <a href="https://github.com/Satya257680/miarcus">
-<img
-src="https://img.shields.io/badge/VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"
-alt="Mi Arcus Repository"
-/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🌐 Vistarax
+### 🌐 Vistarax
 
-### Modern Full-Stack Web Application
+**Full-Stack Web Application**
 
-A modern web application focused on clean UI, backend integration and practical functionality.
+Modern web application with a focus on clean UI, backend integration and practical functionality.
 
-### Technology
+**Focus**
 
-`JavaScript`
-
-`Full Stack`
-
-`REST API`
-
-`Modern UI`
+`Frontend` `Backend` `Full Stack`
 
 <br>
 
 <a href="https://github.com/Satya257680/Vistarax">
-<img
-src="https://img.shields.io/badge/VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"
-alt="Vistarax Repository"
-/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -289,162 +193,47 @@ alt="Vistarax Repository"
 
 <td width="50%" valign="top">
 
-## 📊 Attendance System
+### 📊 Attendance System
 
-### Employee & Attendance Management
+**Attendance Management**
 
 Full-stack attendance management application designed for organizational workflows.
 
-### Technology
+**Focus**
 
-`MERN`
-
-`JavaScript`
-
-`Management`
+`Attendance` `Users` `Management`
 
 <br>
 
 <a href="https://github.com/Satya257680/ATTENDANCE-SYSTEM">
-<img
-src="https://img.shields.io/badge/VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"
-alt="Attendance System Repository"
-/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🧮 Calculation Platform
+### 🧮 Calculation Platform
 
-### Business Calculation Application
+**Business Calculation Application**
 
-A practical web application focused on calculation workflows and business functionality.
+Application focused on calculation workflows and practical business functionality.
 
-### Technology
+**Focus**
 
-`JavaScript`
-
-`Full Stack`
-
-`Business Logic`
+`Calculations` `Business Logic` `Web`
 
 <br>
 
 <a href="https://github.com/Satya257680/CalculationPlatform">
-<img
-src="https://img.shields.io/badge/VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"
-alt="Calculation Platform Repository"
-/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
 </tr>
-</table>
-
----
-
-<div align="center">
-
-# 💡 WHAT I BUILD
-
-<br>
-
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-### 🚀
-
-**FULL-STACK**
-
-Web Applications
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎨
-
-**MODERN UI**
-
-Clean Interfaces
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔌
-
-**BACKEND**
-
-REST APIs
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️
-
-**DATABASE**
-
-Scalable Systems
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="25%">
-
-### 🔐
-
-**SECURITY**
-
-Authentication
-
-</td>
-
-<td align="center" width="25%">
-
-### 🏢
-
-**BUSINESS**
-
-Management Systems
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**AUTOMATION**
-
-Business Workflows
-
-</td>
-
-<td align="center" width="25%">
-
-### ☁️
-
-**DEPLOYMENT**
-
-Production Setup
-
-</td>
-
-</tr>
 
 </table>
-
-</div>
 
 ---
 
@@ -452,27 +241,17 @@ Production Setup
 
 # 📊 GITHUB ANALYTICS
 
-<br>
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Satya257680&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"
-width="49%"
-alt="GitHub Statistics"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya257680&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
-width="49%"
-alt="Most Used Languages"
-/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2196F3,50:7C3AED,100:EC4899" width="75%"/>
 
 <br><br>
 
-<img
-src="https://streak-stats.demolab.com?user=Satya257680&theme=tokyonight&hide_border=true&background=0B1220&ring=7C3AED&fire=58A6FF&currStreakLabel=58A6FF"
-width="70%"
-alt="GitHub Streak"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=Satya257680&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya257680&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="49%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Satya257680&theme=tokyonight&hide_border=true&background=0B1220&ring=7C3AED&fire=58A6FF&currStreakLabel=58A6FF" width="70%"/>
 
 </div>
 
@@ -480,15 +259,13 @@ alt="GitHub Streak"
 
 <div align="center">
 
-# 📈 CONTRIBUTION ACTIVITY
+# 📈 CONTRIBUTIONS
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2196F3,50:7C3AED,100:EC4899" width="75%"/>
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Satya257680&bg_color=0B1220&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Satyajit%27s%20Contribution%20Activity"
-width="100%"
-alt="GitHub Contribution Activity"
-/>
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satya257680&bg_color=0B1220&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Satyajit%27s%20Contribution%20Activity" width="100%"/>
 
 </div>
 
@@ -498,7 +275,9 @@ alt="GitHub Contribution Activity"
 
 # 🧠 DEVELOPMENT MINDSET
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2196F3,50:7C3AED,100:EC4899" width="75%"/>
+
+<br><br>
 
 <table>
 
@@ -506,7 +285,7 @@ alt="GitHub Contribution Activity"
 
 <td align="center" width="25%">
 
-# ⚡
+### ⚡
 
 ## BUILD
 
@@ -516,7 +295,7 @@ Real-world solutions
 
 <td align="center" width="25%">
 
-# 🔐
+### 🔐
 
 ## SECURE
 
@@ -526,7 +305,7 @@ Reliable applications
 
 <td align="center" width="25%">
 
-# 📈
+### 📈
 
 ## IMPROVE
 
@@ -536,7 +315,7 @@ Continuous learning
 
 <td align="center" width="25%">
 
-# 🚀
+### 🚀
 
 ## SHIP
 
@@ -558,30 +337,11 @@ Production-ready software
 
 <br>
 
-<img
-src="https://img.shields.io/badge/REAL--WORLD%20APPLICATIONS-071A3D?style=for-the-badge"
-alt="Real World Applications"
-/>
-
-<img
-src="https://img.shields.io/badge/SMART%20BACKENDS-111827?style=for-the-badge&logo=node.js&logoColor=58A6FF"
-alt="Smart Backends"
-/>
-
-<img
-src="https://img.shields.io/badge/DATABASE%20SYSTEMS-1E1B4B?style=for-the-badge&logo=mongodb&logoColor=7C3AED"
-alt="Database Systems"
-/>
-
-<img
-src="https://img.shields.io/badge/SECURE%20APPLICATIONS-312E81?style=for-the-badge"
-alt="Secure Applications"
-/>
-
-<img
-src="https://img.shields.io/badge/MODERN%20UI-4C1D95?style=for-the-badge&logo=react&logoColor=61DAFB"
-alt="Modern UI"
-/>
+<img src="https://img.shields.io/badge/REAL--WORLD_APPS-071A3D?style=for-the-badge&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/SMART_BACKENDS-111827?style=for-the-badge&logo=node.js&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/DATABASE_SYSTEMS-1E1B4B?style=for-the-badge&logo=mongodb&logoColor=7C3AED"/>
+<img src="https://img.shields.io/badge/SECURE_APPS-312E81?style=for-the-badge&logo=letsencrypt&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MODERN_UI-4C1D95?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 </div>
 
@@ -589,133 +349,44 @@ alt="Modern UI"
 
 <div align="center">
 
-# 📬 CONTACT ME
+# 🤝 LET'S CONNECT
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2196F3,50:7C3AED,100:EC4899" width="75%"/>
 
-<table>
-
-<tr>
-
-<td align="center">
-
-### 📱 PHONE
-
-<a href="tel:7327096390">
-
-**7327096390**
-
-</a>
-
-</td>
-
-<td align="center">
-
-### 📧 PERSONAL EMAIL
-
-<a href="mailto:satyajitnayak179@gmail.com">
-
-**satyajitnayak179@gmail.com**
-
-</a>
-
-</td>
-
-<td align="center">
-
-### 🏢 COMPANY EMAIL
-
-<a href="mailto:developer@miarcus.com">
-
-**developer@miarcus.com**
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-### 📍 Bholapur, Ludhiana, Punjab
-
-<br>
+<br><br>
 
 <a href="https://github.com/Satya257680">
-
-<img
-src="https://img.shields.io/badge/GITHUB-SATYA257680-111827?style=for-the-badge&logo=github&logoColor=white"
-alt="GitHub"
-/>
-
+<img src="https://img.shields.io/badge/GITHUB-Satya257680-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
-<a href="./assets/Satyajit-Nayak-Resume.pdf">
-
-<img
-src="https://img.shields.io/badge/⬇%20DOWNLOAD%20RESUME-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white"
-alt="Download Resume"
-/>
-
+<a href="mailto:nayaksatyajit372@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-nayaksatyajit372%40gmail.com-4B1FA6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="mailto:satyajitnayak179@gmail.com">
+<img src="https://komarev.com/ghpvc/?username=Satya257680&style=for-the-badge&label=PROFILE+VIEWS&color=7C3AED"/>
 
-<img
-src="https://img.shields.io/badge/EMAIL%20ME-2563EB?style=for-the-badge&logo=gmail&logoColor=white"
-alt="Email Me"
-/>
+<br><br>
 
-</a>
+### ✨ Build it. Improve it. Ship it.
 
-&nbsp;&nbsp;
+**Satyajit Nayak**
 
-<a href="mailto:developer@miarcus.com">
+<br>
 
-<img
-src="https://img.shields.io/badge/MI%20ARCUS-DEVELOPER%20EMAIL-4B1FA6?style=for-the-badge&logo=gmail&logoColor=white"
-alt="Mi Arcus Email"
-/>
-
-</a>
+<sub>Full-Stack Developer • Software Builder • Problem Solver</sub>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<br>
-
-# ✨ Build it. Improve it. Ship it.
-
-### **Satyajit Nayak**
-
-Full-Stack Developer • Software Builder • Problem Solver
-
-<br>
-
-<a href="https://github.com/Satya257680">
-
-<img
-src="https://komarev.com/ghpvc/?username=Satya257680&style=for-the-badge&label=PROFILE+VIEWS&color=7C3AED"
-alt="Profile Views"
-/>
-
-</a>
-
-<br><br>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:123B7A,100:071A3D"
-width="100%"
-alt="Footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:7C3AED,50:123B7A,100:071A3D" width="100%"/>
 
 </div>
+
+this is the redme i have change accordingly and give me the exact what i describe now i dont want what background
