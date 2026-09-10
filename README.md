@@ -1,16 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:141e30,100:243b55&text=SATYAJIT%20NAYAK&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20MERN%20%7C%20SQL&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=SATYAJIT%20NAYAK&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20MERN%20%7C%20SQL&descAlignY=62&descSize=19&animation=fadeIn&color=0:071A3D,35:123B7A,70:4B1FA6,100:7C3AED" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+%7C+SQL+Developer;Building+Real-World+Business+Applications;Turning+Ideas+Into+Production+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;MERN+%7C+SQL+Developer;Software+Builder;Building+Real-World+Business+Applications;Turning+Ideas+Into+Production+Software" />
 
 <br><br>
 
 <a href="https://github.com/Satya257680">
-<img src="https://img.shields.io/badge/GITHUB-Satya257680-161B22?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-SATYA257680-0B1220?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:nayaksatyajit372@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-4B1FA6?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BUILD-0B1220?style=flat-square&logo=code&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/DESIGN-0B1220?style=flat-square&logo=figma&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/DEVELOP-0B1220?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/DEPLOY-0B1220?style=flat-square&logo=docker&logoColor=2496ED"/>
 
 </div>
 
@@ -20,41 +33,48 @@
 
 ## 👨‍💻 ABOUT ME
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2196F3,50:7C3AED,100:EC4899" width="75%"/>
+
 </div>
 
 <table>
 <tr>
-<td width="60%">
 
-### Hi, I'm Satyajit 👋
+<td width="58%" valign="top">
 
-I'm a **Full-Stack Developer** focused on building practical and production-oriented web applications.
+### 👋 Hi, I'm Satyajit
+
+I'm a **Full-Stack Developer** focused on building practical, scalable and production-oriented web applications.
 
 I enjoy working across the complete development lifecycle — from designing interfaces and APIs to databases, authentication, business logic and deployment.
 
-### What I Focus On
+<br>
 
-- 🚀 Full-Stack Web Development
-- 🏢 Business & Management Applications
-- 🔐 Authentication & Authorization
-- 🗄️ Database Architecture
-- 🔌 REST APIs
-- ☁️ Deployment & Production Setup
-- 🎨 Clean and responsive UI
+### ⚡ What I Focus On
+
+| | Focus |
+|---|---|
+| 🚀 | Full-Stack Web Development |
+| 🏢 | Business & Management Applications |
+| 🔐 | Authentication & Authorization |
+| 🗄️ | Database Architecture |
+| 🔌 | REST APIs |
+| ☁️ | Deployment & Production Setup |
+| 🎨 | Clean & Responsive UI |
 
 </td>
 
-<td width="40%">
+<td width="42%" valign="top">
 
 <div align="center">
 
-### ⚡ CURRENTLY BUILDING
+### 🚀 CURRENTLY BUILDING
 
 <br>
 
 # 🏢 Mi Arcus
 
-**Internal Management Platform**
+### Internal Management Platform
 
 <br>
 
@@ -62,13 +82,20 @@ Business management software designed around real-world operational workflows.
 
 <br>
 
+**Users • Billing • Collections • Management**
+
+<br>
+
 <a href="https://github.com/Satya257680/miarcus">
+
 <img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </div>
 
 </td>
+
 </tr>
 </table>
 
@@ -78,29 +105,31 @@ Business management software designed around real-world operational workflows.
 
 # 🛠️ TECHNOLOGY STACK
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2196F3,50:7C3AED,100:EC4899" width="75%"/>
+
+<br><br>
 
 ### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript&theme=dark" />
 
 <br><br>
 
 ### BACKEND
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
 <br><br>
 
 ### DATABASE
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
 <br><br>
 
 ### TOOLS & DEVOPS
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode&theme=dark" />
 
 </div>
 
@@ -110,69 +139,100 @@ Business management software designed around real-world operational workflows.
 
 # 🚀 FEATURED PROJECTS
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2196F3,50:7C3AED,100:EC4899" width="75%"/>
+
 </div>
 
 <table>
+
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🏢 Mi Arcus
 
-Internal management platform built for real-world business operations.
+**Internal Management Platform**
 
-**Includes systems for:**
+Full-stack business management application designed around real-world operational workflows.
 
-- User management
-- Billing
-- Daily collections
-- Business workflows
-- Authentication
-- Administrative controls
+**Focus**
+
+`Users` `Billing` `Collections` `Management`
+
+<br>
 
 <a href="https://github.com/Satya257680/miarcus">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-161B22?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Vistarax
 
-A modern full-stack web application built with a focus on clean UI, backend integration and practical functionality.
+**Full-Stack Web Application**
+
+Modern web application with a focus on clean UI, backend integration and practical functionality.
+
+**Focus**
+
+`Frontend` `Backend` `Full Stack`
+
+<br>
 
 <a href="https://github.com/Satya257680/Vistarax">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-161B22?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 📊 Attendance System
 
+**Attendance Management**
+
 Full-stack attendance management application designed for organizational workflows.
 
+**Focus**
+
+`Attendance` `Users` `Management`
+
+<br>
+
 <a href="https://github.com/Satya257680/ATTENDANCE-SYSTEM">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-161B22?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧮 Calculation Platform
 
+**Business Calculation Application**
+
 Application focused on calculation workflows and practical business functionality.
 
+**Focus**
+
+`Calculations` `Business Logic` `Web`
+
+<br>
+
 <a href="https://github.com/Satya257680/CalculationPlatform">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-161B22?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -181,15 +241,17 @@ Application focused on calculation workflows and practical business functionalit
 
 # 📊 GITHUB ANALYTICS
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Satya257680&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya257680&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="180"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2196F3,50:7C3AED,100:EC4899" width="75%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Satya257680&theme=github-dark-blue&hide_border=true" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Satya257680&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya257680&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="49%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Satya257680&theme=tokyonight&hide_border=true&background=0B1220&ring=7C3AED&fire=58A6FF&currStreakLabel=58A6FF" width="70%"/>
 
 </div>
 
@@ -197,9 +259,13 @@ Application focused on calculation workflows and practical business functionalit
 
 <div align="center">
 
-# 📈 CONTRIBUTION ACTIVITY
+# 📈 CONTRIBUTIONS
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satya257680&bg_color=0d1117&color=58a6ff&line=238636&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2196F3,50:7C3AED,100:EC4899" width="75%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satya257680&bg_color=0B1220&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Satyajit%27s%20Contribution%20Activity" width="100%"/>
 
 </div>
 
@@ -207,16 +273,75 @@ Application focused on calculation workflows and practical business functionalit
 
 <div align="center">
 
-# 💡 DEVELOPMENT MINDSET
+# 🧠 DEVELOPMENT MINDSET
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2196F3,50:7C3AED,100:EC4899" width="75%"/>
+
+<br><br>
 
 <table>
+
 <tr>
-<td align="center">⚡<br><b>BUILD</b><br><sub>Real-world solutions</sub></td>
-<td align="center">🔐<br><b>SECURE</b><br><sub>Reliable applications</sub></td>
-<td align="center">📈<br><b>IMPROVE</b><br><sub>Continuous learning</sub></td>
-<td align="center">🚀<br><b>SHIP</b><br><sub>Production-ready software</sub></td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+## BUILD
+
+Real-world solutions
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐
+
+## SECURE
+
+Reliable applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 📈
+
+## IMPROVE
+
+Continuous learning
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+## SHIP
+
+Production-ready software
+
+</td>
+
 </tr>
+
 </table>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌌 WHAT I LOVE BUILDING
+
+<br>
+
+<img src="https://img.shields.io/badge/REAL--WORLD_APPS-071A3D?style=for-the-badge&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/SMART_BACKENDS-111827?style=for-the-badge&logo=node.js&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/DATABASE_SYSTEMS-1E1B4B?style=for-the-badge&logo=mongodb&logoColor=7C3AED"/>
+<img src="https://img.shields.io/badge/SECURE_APPS-312E81?style=for-the-badge&logo=letsencrypt&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MODERN_UI-4C1D95?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 </div>
 
@@ -226,30 +351,40 @@ Application focused on calculation workflows and practical business functionalit
 
 # 🤝 LET'S CONNECT
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2196F3,50:7C3AED,100:EC4899" width="75%"/>
+
+<br><br>
 
 <a href="https://github.com/Satya257680">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Satya257680-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 &nbsp;
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:nayaksatyajit372@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-nayaksatyajit372%40gmail.com-4B1FA6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Satya257680&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Satya257680&style=for-the-badge&label=PROFILE+VIEWS&color=7C3AED"/>
 
 <br><br>
 
-### ⭐ Thanks for visiting my profile
+### ✨ Build it. Improve it. Ship it.
 
-<sub>Building • Learning • Improving • Shipping</sub>
+**Satyajit Nayak**
+
+<br>
+
+<sub>Full-Stack Developer • Software Builder • Problem Solver</sub>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:243b55,100:141e30&section=footer" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:7C3AED,50:123B7A,100:071A3D" width="100%"/>
+
+</div>
